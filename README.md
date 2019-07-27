@@ -10,3 +10,5 @@ Videos: https://www.bilibili.com/video/av53055190
 - Lecture 3: **Orthonormal Columns in Q Give Q^TQ=I**
 - Lecture 4: **Eigenvalues and Eigenvectors**
 - Lecture 5: **Positive Definite and Semidefinite Matrices** 
+- Lecture 6: **Singular Value Decomposition (SVD)**
+
