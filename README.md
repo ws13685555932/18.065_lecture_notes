@@ -17,4 +17,5 @@ Videos: https://www.bilibili.com/video/av53055190
 - Lecture 10: **Survey of Difficulties with Ax=b**
 - Lecture 11: **Minimizing ||x|| Subject to Ax=b**
 - Lecture 12: **Computing Eigenvalues and Singular Values** 
+- Lecture 13: **Randomized Matrix Multiplication** 
 
