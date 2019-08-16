@@ -18,4 +18,5 @@ Videos: https://www.bilibili.com/video/av53055190
 - Lecture 11: **Minimizing ||x|| Subject to Ax=b**
 - Lecture 12: **Computing Eigenvalues and Singular Values** 
 - Lecture 13: **Randomized Matrix Multiplication** 
+- Lecture 14: **Low Rank Changes in A and Its Inverse** 
 
